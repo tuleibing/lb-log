@@ -1,0 +1,22 @@
+{
+  "name": "my_log",
+  "version": "1.0.0",
+  "description": "A tool for logging",
+  "main": "log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosein2398/log.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "Hosein2398",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hosein2398/log/issues"
+  },
+  "homepage": "https://github.com/hosein2398/log#readme"
+}
